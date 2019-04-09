@@ -1,8 +1,8 @@
-#include "MirrorString.h"
-#include "PrintRecord.h"
-#include "PrintRecords.h"
-#include "VectorExample1.h"
-#include "VectorExample2.h"
+#include "MirrorString.cpp"
+#include "PrintRecord.cpp"
+#include "PrintRecords.cpp"
+#include "VectorExample1.cpp"
+#include "VectorExample2.cpp"
 
 using namespace samples;
 

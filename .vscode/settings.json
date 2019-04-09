@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ios": "cpp",
+        "string": "cpp"
+    },
+    "todohighlight.keywords": [
+
+        {
+            "text": "string",
+            "color": "#569cd6",
+            "backgroundColor": "none",
+            "overviewRulerColor": "grey"
+        },
+        {
+            "text": "fstream",
+            "color": "#569cd6",
+            "backgroundColor": "none",
+            "overviewRulerColor": "grey"
+        }
+    ],
+    "todohighlight.keywordsPattern": "\tRecord",
+    "todohighlight.defaultStyle": {
+        "color": "#569cd6",
+        "backgroundColor": "none"
+    }
+}

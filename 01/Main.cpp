@@ -1,10 +1,10 @@
-#include "AddIntegers.h"
-#include "HelloPope.h"
-#include "HiPope.h"
-#include "PrintEverything.h"
-#include "PrintMenu.h"
-#include "ReverseInputString.h"
-#include "Swap.h"
+#include "AddIntegers.cpp"
+#include "HelloPope.cpp"
+#include "HiPope.cpp"
+#include "PrintEverything.cpp"
+#include "PrintMenu.cpp"
+#include "ReverseInputString.cpp"
+#include "Swap.cpp"
 
 using namespace samples;
 

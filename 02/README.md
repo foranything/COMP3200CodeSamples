@@ -8,17 +8,17 @@
 
 * 읽기 전용
 
-```c++
+```cpp
 ifstream fin;
 fin.open("h.txt");
 ```
 * 쓰기 전용 (없으면 만듬)
-```c++
+```cpp
 ofstream fout;
 fout.open("h.txt");
 ```
 * 읽기 쓰기 범용
-```c++
+```cpp
 fstream fs;
 fs.open("h.txt");
 ```
